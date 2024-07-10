@@ -1,6 +1,11 @@
-# React + Vite
+# To-Do App
+This To-Do App is a simple and efficient task manager built with Vite, React, and Tailwind CSS. It allows users to add, manage, and remove tasks with an intuitive user interface, ensuring a seamless user experience. The app leverages React for dynamic rendering, Vite for fast development, and Tailwind CSS for sleek and responsive design.
+
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
 
 Currently, two official plugins are available:
 
